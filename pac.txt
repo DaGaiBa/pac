@@ -11,6 +11,7 @@ var ipv6_proxy = function(){ return wall_v6_proxy(); };
 /*
  * Copyright (C) 2014 breakwa11
  * https://github.com/breakwa11/gfw_whitelist
+ * For my most beautiful honey 
  */
 
 var cnIpRange = [
